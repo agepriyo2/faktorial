@@ -15,12 +15,12 @@ public class Jurnal2new {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int i = 6;
-        int j;
-        int k;
-        for ( j = 1; j <= i; j++) {
+        int a = 6;
+        int b;
+        int c;
+        for ( b = 1; b <= a; b++) {
             System.out.println("");
-            for (k = 0; k < j; k++) {
+            for (c = 0; c < b; c++) {
                 System.out.print("0");
             }
             
